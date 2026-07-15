@@ -1,0 +1,21 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+packages/
+
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.publishproj
+*.pubxml
+*.pubxml.user
+
+# Publish / deploy artifacts
+App_Data/PublishProfiles/
+*.zip
+
+# Local secrets and env
+*.env
+appsettings.*.local.json
